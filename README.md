@@ -1,4 +1,4 @@
-# Sistem Inventaris Yayasan (E-Inventory) 
+# Sistem Inventaris Sekolah (E-Inventory) 
 **Proyek Ujian Akhir Semester - Pemrograman Web 2**
 
 Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled* (terpisah) untuk mendigitalisasi pencatatan aset institusi pendidikan, meliputi pendataan barang, kategori, serta histori barang masuk dan keluar.
