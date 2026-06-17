@@ -17,9 +17,22 @@ Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled*
 ## 🔗 Tautan Penting
 - **Demo Aplikasi:** [Link Video Presentasi YouTube]
 
-## 📸 Dokumentasi Tangkapan Layar
-*(Ganti teks ini dengan memasukkan gambar screenshot yang sudah kamu siapkan)*
-- Skema Relasi Database
-- Uji Coba Error 401 (Postman)
-- Halaman Login & Dashboard
-- Halaman Tabel Barang & Form Modal
+## 📸 Dokumentasi Visual
+
+### 1. Skema Relasi Database
+![Relasi Database](docs/relasi_db.png)
+
+### 2. Keamanan API (Uji Coba Error 401 via Postman)
+![Error 401 Postman](docs/error_401.png)
+
+### 3. Halaman Login
+![Halaman Login](docs/login.png)
+
+### 4. Halaman Dashboard Admin
+![Dashboard Admin](docs/dashboard.png)
+
+### 5. Visualisasi Tabel Data 
+![Tabel Data](docs/tabel_data.png)
+
+### 6. Form Modal Interaktif (Tambah/Edit)
+![Form Modal](docs/form_modal.png)
