@@ -20,7 +20,7 @@ Sistem informasi manajemen inventaris ini dibangun dengan arsitektur *Decoupled*
 3. Akses aplikasi melalui browser dan login sebagai Administrator.
 
 ## 🔗 Tautan Penting
-- **Demo Aplikasi:** [Link Video Presentasi YouTube]
+- **Demo Aplikasi:** [https://youtu.be/WFqI0Ogibnc]
 
 ## 📸 Dokumentasi Visual
 
